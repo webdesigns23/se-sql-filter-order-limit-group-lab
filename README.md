@@ -1,4 +1,6 @@
-# Introduction
+# Lab: Filtering, Ordering, Limiting, and Grouping Data with SQL
+
+## Introduction
 
 In this lab assessment you will explore writing more advanced SQL queries aimed at analyzing data on a more granular level. You will be working with 3 different databases throughout the assessment.
 - planets.db: Contains data pertaining to planets in our solar system
